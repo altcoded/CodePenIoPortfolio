@@ -1,0 +1,32 @@
+<!DOCTYPE>
+<html>
+  <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+  
+  <style>
+    .blue-text {
+      color: blue;
+    }
+    h1 {
+      font-size: 60px;
+      font-family: Lobster;
+      font-: center;
+    }
+   
+    p {
+      font-size: 10px;
+      font-family: Arial;
+    }
+    .thin-blue-border {
+      border-color: blue;
+      border-width: 1px;
+      border-style: solid;
+      border-radius: 50%;
+    }
+    
+    .smaller-image {
+      width: 100px
+    }
+  </style>
+  
+  <div class = "container-fluid"><h1 class = "blue-text text-center">April Lauren Ryan</h1></div>
+</html>
