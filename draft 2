@@ -1,0 +1,50 @@
+<html>
+  <link href="https://fonts.googleapis.com/css?family=Indie+Flower|Tillana" rel ="stylesheet">
+  <style>
+     
+    .blue-text {
+      font-family: Indie Flower;
+      font-color: DodgerBlue;
+      font-size: 60px;
+    }
+    h1 {
+      font-size: 60px;
+      font-family: Indie Flower;
+    }
+    h2 {
+      font-size: 25px;
+      font-family:Indie Flower;
+    }
+   
+    p {
+      font-size: 18px;
+      font-family: Tillana, bold;
+    }
+    .thin-blue-border {
+      border-color: blue;
+      border-width: 1px;
+      border-style: solid;
+      border-radius: 50%;
+    }
+    
+    .smaller-image {
+      width: 100px
+    }
+  </style>
+  
+  <div class = "container-fluid text-center text-bold"><h1>April Lauren Ryan</h1></div>
+  <h2 class ="center"><h2>Just a small time copywriter living in an ordinary world! </h2>
+    <p></p>
+    <p></p>
+  <div class = "container-fluid">
+    <p class = "text-primary text-center"><p class="col-xs-6"> Enthusiastic.  Dedicated.  Unconventional.  That's what everyone seeks when you're looking to employ talent in the creative sector, right? </p></div>
+    <p></p>
+    <div class ="container-fluid">
+      <p class = "text-secondary text-justified"><p font-size: 12px>Thing is, it's not just about that anymore.</p>
+      <p></p>
+      <p> You need your spring in your step - something that I am more than happy to offer.
+        
+
+  <button class="primary-btn btn-lg"><button>Copywriting</button>
+    <button class="danger-btn"><button>April Likes Alex</button>
+      <button>Alex Loves LFC</button>
