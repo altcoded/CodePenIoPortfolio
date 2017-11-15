@@ -1,0 +1,81 @@
+<html>
+  <link href="https://fonts.googleapis.com/css?family=Indie+Flower|Tillana" rel ="stylesheet">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,400i,700">
+  
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css"/>
+<img src ="https://pixabay.com/photo-2930029.jpg">
+  <style type="text/css" media ="screen">
+    #headline1 {
+      background-image: "https://pixabay.com/photo-2930029";
+      background-repeat: no-repeat;
+      background-position: left top;
+      padding-top: 68px;
+      margin-bottom: 50px;
+    }
+    #headline2 {
+      
+    }
+    .blue-text {
+      font-family: Indie Flower;
+      font-color: DodgerBlue;
+      font-size: 60px;
+    }
+    h1 {
+      font-size: 60px;
+      font-family: Indie Flower;
+    }
+    h2 {
+      font-size: 25px;
+      font-family:Tillana;
+    }
+    h3 {
+      font-size: 16px;
+      font-family: Lato;
+    }
+   
+    p {
+      font-size: 18px;
+      font-family: Tillana, bold;
+    }
+    .thin-blue-border {
+      border-color: blue;
+      border-width: 1px;
+      border-style: solid;
+      border-radius: 50%;
+    }
+    
+    .smaller-image {
+      width: 100px
+    }
+  </style>
+  <div class = container-fluid> 
+  <div class = "container-fluid text-center">
+    <h2> Why, hello there!  My name's</h2>
+    </div>
+  <div class = "container-fluid text-primary text-center text-bold"><h1>April Lauren Ryan</h1></div>
+  <div class ="container-fluid text-secondary text-center">
+    <h2>I am just a small time copywriter living in an ordinary world! </h2></div>
+    <br>
+<br>
+<div class = "container-fluid">
+  <div class = "text-center">
+    <h2> <b> <u> About Me </b></u></h2>
+  <div class = "container-fluid">
+    <h3 class = "text-primary text-center"><h3 class="col-xs-6"> 
+      <h3> Enthusiastic.  Dedicated.  Unconventional. <br> I <b>write</b> for living; it's <b><i>what I do best</i></b>. </h3>
+        <br>
+      </div>
+  
+    <div class ="container-fluid">
+      <h3 class = "text-secondary text-justified"><h3>Question is, is writing simply about that anymore? 
+       <br>
+        <br>
+        <br> You need your spring in your step - that little flurry of passion. <br>
+        <br>
+        <br> That is one thing I can offer in spades. </h3> 
+        
+
+  <button class="primary-btn btn-lg"><button>Like</button>
+    <button class="danger-btn"><button>Retweet</button>
+      <button>Talk to me!</button>
+      </div>
