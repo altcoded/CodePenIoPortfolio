@@ -1,0 +1,152 @@
+<html> 
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css"/><link href="https://fonts.googleapis.com/css?family=Indie+Flower|Tillana" rel ="stylesheet">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,400i,700">
+  
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+ 
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <rel = "stylesheet" type = "text/css">
+    
+<style>
+  <head>
+    headline1 {
+background-image: "https://pixabay.com/photo-2930029";
+      background-repeat: no-repeat;
+      background-position: left top;
+      padding-top: 68px;
+      margin-bottom: 50px;
+    }
+    headline2 {
+      padding-top: 100px;
+      padding-left: 100px;
+      padding-right: 100px;
+      padding-bottom: 100px;
+      rgb: 9, 174, 37;
+    }
+  body1 {
+    background-color: red;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+  }
+    }
+    h1 {
+      font-size: 80px;
+      font-family: Lato;
+    }
+    h2 {
+      font-size: 25px;
+      font-family:Tillana;
+    }
+    h3 {
+      font-size: 16px;
+      font-family: Lato;
+    }
+   
+    p {
+      font-size: 18px;
+      font-family: Tillana, bold;
+    }
+    thin-blue-border {
+      border-color: blue;
+      border-width: 1px;
+      border-style: solid;
+      border-radius: 50%;
+    }
+    
+    .smaller-image {
+      width: 100px
+    }
+    
+  .red_suit_and_tie {
+  color: white;
+  font-size: 12px;
+  font-family: Lato;
+  text-decoration: none;
+  border: 2px solid white;
+  border-radius: 20px;
+  transition-duration: .2s;
+  -webkit-transition-duration: .2s;
+  -moz-transition-duration: .2s;
+  background-color: red;
+  padding: 4px 30px;
+}
+.suit_and_tie: hover {
+  color: red;
+  background-color: white;
+  transition-duration: .2s;
+  -webkit-transition-duration: .2s;
+  -moz-transition-duration: .2s;
+}
+  #outer {
+    width: 100%;
+    text-align: center;
+  }
+  .inner {
+    display: inline-block;
+    color: black;
+    transition-duration: .2s;
+  }
+  .inner1 {
+    display: inline-block;
+    color: black; 
+  }
+      
+    }
+  
+  </style>
+      </head>
+  
+   <headline2>
+     <body>
+     <section id = "ABC">
+    </div>
+  <div class = "container-fluid text-center text-bold"><h1><b><u>April Ryan</b></u></h1>
+  </headline2>
+    </div>
+  <div class ="container-fluid text-dark text-center">
+    <h2 font = "Lato">Just a small time copywriter living in an ordinary world!</h2>
+  </div>
+
+   
+<center><div class = "container-fluid">
+
+  <h3> Enthusiastic. Dedicated.  Playful and language-curious. <br><br><br> I <b>write</b> for living; it's <b><i>what I do best. <i class = "fa fa-pencil"</i></i>
+        
+      </b> <br></br> But these days, you need even more than that. 
+      <br>You need that spring in your step - one thing I can offer in spades. </h3> </div></center>
+      </body>
+  </section>
+    <div class = "container">
+<h3> 
+<center><div class = "container-fluid">
+  <div class = "button center col-xl-6">
+  <button class = "button-center red_suit_and_tie">About Me</button>
+  <button class = "button-center red_suit_and_tie"> What I do </button> 
+    <button class = "button-center red_suit_and_tie"> Portfolio </button>
+    <button class = "button-centre red_suit_and_tie"> Experience</button>
+    <button class = "button-centre red_suit_and_tie"> Reviews </button>
+  
+  </div>
+  </div></center>
+  <br>
+ 
+    <div class = "row container-fluid col-xs-6" id = "outer">
+   <button class = "inner btn-danger"><i class = "fa fa-thumbs-up">   Like</i></button>
+<button class = "inner btn-danger"><i class = "fa fa-twitter"> Tweet</i></button>
+  <button class = "inner btn-danger"><i class = "fa fa-envelope-o"> Talk to me! </i></button></div>
+      </div></id><br></br>
+<div class = "container-fluid">
+      
+      
+      <div class="input-group margin-bottom-sm">
+  <span class="input-group-addon"><i class="fa fa-envelope-o fa-fw" aria-hidden="true"></i></span>
+  <input class="form-control" type="text" placeholder="Sign up to my newsletter herer">
+</div>
+</div></button></center>
+      </div>
+  </div>
